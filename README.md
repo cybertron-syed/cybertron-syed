@@ -1,6 +1,6 @@
-#  🛡️      About Me:
+#  🛡️ About Me:
 
-## 💡 Worked on:
+<h3> Worked on: ⬇️ </h3>
 ☁️ Cloud Deployment<br>
 ♾️ DevOps Pipeline and Tools <br>
 🧑‍💻 Web Development <br>
