@@ -6,7 +6,7 @@ This is Syed Shaarikh
 Worked on Cloud, DevOps, Development...
 
 ## TECH STACK
-![JS](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
+![JS]
 
 ##
 
